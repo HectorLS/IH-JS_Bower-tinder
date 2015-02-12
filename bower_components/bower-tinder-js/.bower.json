@@ -1,0 +1,18 @@
+{
+  "name": "bower-tinder-js",
+  "homepage": "https://github.com/naoisegolden/bower-tinder-js",
+  "authors": [
+    "Naoise Golden <naoise.golden@gmail.com>"
+  ],
+  "license": "MIT",
+  "_release": "d64da7fcb3",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d64da7fcb3e54f3c099d6187810261971293f7f7"
+  },
+  "_source": "git://github.com/naoisegolden/bower-tinder-js.git",
+  "_target": "*",
+  "_originalSource": "bower-tinder-js",
+  "_direct": true
+}
